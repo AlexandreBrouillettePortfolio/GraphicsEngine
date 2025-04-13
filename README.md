@@ -2,7 +2,7 @@
 
 Created with the openFrameworks tools, using the ofxAssimpModelLoader and ofxGui addons.
 
-Link to showcase: https://youtu.be/24zBFiRYAQM
+Link to showcase: https://youtu.be/8Q_9dQ-k2Z0
 
 A school project made with 3 other students, its goal was to create multiple functions of modern graphics engines from scratch to familiarize ourselves with the subject.
 
